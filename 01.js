@@ -31,8 +31,6 @@ class KiwiJucieEasy {
     }
 };
 
-
-
 const kiwiJucieEasy = new KiwiJucieEasy();
 
 const result = kiwiJucieEasy.thePouring([700000, 800000, 900000, 1000000],
